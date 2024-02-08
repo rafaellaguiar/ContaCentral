@@ -1,10 +1,6 @@
 # README #
 
-### What is this repository for? ###
-
 * Projeto básico de criação de carteiras e tranferencias
-
-### How do I get set up? ###
 
 * É necessário o uso do angular 9 pra rodar o projeto
 * Pra rodar a API é necessário ajustar a senha e o usuário do Sql na connection string do arquivo appsettings.json
